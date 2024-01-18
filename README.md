@@ -1,9 +1,15 @@
 # Biomedical Engeneering undergraduate
 
 ## Education
-Science and Tech and Biomedical Engeneering at UNIFESP
+Science and technology and Biomedical Engeneering at UNIFESP
 
 ### Research
-Automation in the GMMS-Lab at UNIFESP
+Automation in the GMMS-Lab (Grupo de Materiais Multifuncionais e Sensores) at UNIFESP
+
+### Interests
+
+Eletronics, Robotics, Instrumentation. 
+
+In programming, Machine Learning, Python, C++, bioinformatics.
 
 
