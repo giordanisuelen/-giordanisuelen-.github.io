@@ -10,6 +10,6 @@ Automation in the GMMS-Lab (Grupo de Materiais Multifuncionais e Sensores) at UN
 
 Eletronics, Robotics, Instrumentation. 
 
-In programming, Machine Learning, Python, C++, bioinformatics.
+In programming, Machine Learning, Python, C++ and bioinformatics.
 
 
